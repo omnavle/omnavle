@@ -1,10 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:394b70,100:1a1b26&height=150&section=header&text=Hi,%20I'm%20Om%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7AA2F7&text=Hi,%20I'm%20Om%20👋&height=80&fontSize=42" />
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=7AA2F7&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;DSA+%26+Problem+Solving;Backend+Engineer;Building+Scalable+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+%26+Problem+Solving;Backend+Engineer;Building+Scalable+Web+Apps" />
 
 </div>
 
