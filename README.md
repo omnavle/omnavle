@@ -1,7 +1,27 @@
-# 💫 Hi 👋, I'm Om Navle
-**A passionate Java Full Stack Developer**
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:394b70,100:1a1b26&height=250&section=header&text=Hi,%20I'm%20Soneesh%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=timey07&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile Views" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+%26+Problem+Solving;Backend+Engineer;Building+Scalable+Web+Apps" alt="Typing SVG" />
+</div>
 
-Email Me 👉 ✉️ **omnavale899@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+---
+
+## 💫 About Me
+
+<img align="right" width="320" src="./hacking.gif" alt="Hacking GIF" />
+
+- 💻 Aspiring **Full Stack Developer** & **Backend Engineer**
+- 🚀 Passionate about building highly scalable systems and clean architectures
+- 🌱 Currently exploring Advanced Backend Development & Distributed Systems
+- ⚡ Focusing on Data Structures, Algorithms, and Problem Solving
+- ✨ Always eager to learn new technologies and contribute to Open Source
+- ☕ Turning caffeine into efficient code
+
+<br clear="right"/>
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omnavle) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omnavale899@gmail.com) 
