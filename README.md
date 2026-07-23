@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:394b70,100:1a1b26&height=250&section=header&text=Hi,%20I'm%20Om Navle%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:394b70,100:1a1b26&height=250&section=header&text=Hi,%20I'm%20Om Navle%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
   
   <img src="https://komarev.com/ghpvc/?username=omnavle&label=Profile%20Views&color=7aa2f7&style=flat"/>
   <br><br>
