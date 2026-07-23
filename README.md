@@ -59,8 +59,6 @@
   <img src="https://github-stats-extended.vercel.app/api?username=omnavle&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=omnavle&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=omnavle&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 
