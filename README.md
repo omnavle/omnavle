@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:394b70,100:1a1b26&height=140&section=header&text=Hi,%20I'm%20Om%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:7AA2F7,50:394b70,100:1a1b26&height=120&text=Hi,%20I'm%20Om%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+%26+Problem+Solving;Backend+Engineer;Building+Scalable+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+%26+Problem+Solving;Backend+Engineer;Building+Scalable+Web+Apps" />
 
 </div>
 
