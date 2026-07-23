@@ -17,8 +17,6 @@
 - ☁️ DevOps Enthusiast experienced with AWS, Docker, CI/CD, and cloud deployment workflows
 - 🚀 Passionate about software engineering, backend architecture, and distributed systems
 - 🧠 Continuously learning System Design, Cloud Technologies, and AI Engineering
-- 📚 Strong foundation in Data Structures, Algorithms, and Problem Solving
-- ⚡ Dedicated to writing clean, efficient, and production-ready code
 
 <br clear="right"/>
 
