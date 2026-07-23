@@ -60,6 +60,3 @@
   <br><br>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=omnavle&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
-
-
----
